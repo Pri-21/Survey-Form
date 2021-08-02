@@ -50,3 +50,27 @@ body {
   padding: 10px;
   font-size: 15px;
 }
+
+#boxcheck {
+  position: relative;
+  top: 0;
+}
+
+#checkbox {
+  position: absolute;
+  right: 30%;
+  width: 50%;
+  height: 1.5em;
+}
+
+#rbox {
+  position: relative;
+  top: 0;
+}
+
+#radio {
+  position: absolute;
+  right: 30%;
+  width: 50%;
+  height: 1.5em;
+}
