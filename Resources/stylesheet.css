@@ -22,3 +22,31 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+#name {
+  font-size: 15px;
+  padding: 6px;
+  margin-top: 12px;
+}
+
+#email {
+  font-size: 15px;
+  padding: 6px;
+  margin-top: 12px;
+}
+
+#number {
+  font-size: 15px;
+  padding: 6px;
+  margin-top: 12px;
+}
+
+#dropdown {
+  font-size: 15px;
+  padding: 6px;
+}
+
+#submit {
+  padding: 10px;
+  font-size: 15px;
+}
